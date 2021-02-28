@@ -8,7 +8,10 @@
 
 * The project analyzes the Gapminder project's data and helps to visualize the
 correlation between each country's population and fertiliy rate. The gif image was generated with python and matplotlib. 
-* Life Expectancy vs. Fertility.
+* Life Expectancy vs. Fertility:
+
+![animatedplotchart](https://user-images.githubusercontent.com/64264575/109423861-80c61600-79e1-11eb-8a37-9b7869345d35.gif)
+
 
 ## Week 02| Titanic: Classifier/ Logistic Regression
 
@@ -34,6 +37,10 @@ to attain the best fitting model which indicated Linear models with above averag
 ## Week 06| Dashboard: Postgres, SQL, RDS, and AWS
 
 * In this project, I built a dashboard summarizing the Northwind Database. It is a sample database that is shipped along with Microsoft Access. The data is about “Northwind Traders”, a fictional company. The database contains all sales transactions between the company and its customers as well as purchases from Northwinds suppliers. For such project, I created a Postgre database in order to create tables inside and write SQL queries that retrieves data. Data was loaded from CSV files into a database. SQLAlchemy library was also used in this project for accessing a database from Python. Ultimately, AWS was used in this project to upload everything into a cloud server and, in this way, building a dashboard with metabase that stayed up and running 24/7.
+
+These are some examples of dashboards that were generated using the Northwind Database:
+
+<img width="928" alt="Screenshot 2021-02-28 at 16 35 03" src="https://user-images.githubusercontent.com/64264575/109424203-05656400-79e3-11eb-80f5-b8abfd90c4d5.png"><img width="1030" alt="Screenshot 2021-02-28 at 16 36 51" src="https://user-images.githubusercontent.com/64264575/109424250-39408980-79e3-11eb-82d4-3836d1c1da17.png">
 
 ## Week 07| Data Pipeline: Docker, MongoDB, and ETL
 
