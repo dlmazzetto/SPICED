@@ -40,7 +40,6 @@ to attain the best fitting model which indicated Linear models with above averag
 
 These are some examples of dashboards that were generated using the Northwind Database:
 
-<img width="928" alt="Screenshot 2021-02-28 at 16 35 03" src="https://user-images.githubusercontent.com/64264575/109424203-05656400-79e3-11eb-80f5-b8abfd90c4d5.png"><img width="1030" alt="Screenshot 2021-02-28 at 16 36 51" src="https://user-images.githubusercontent.com/64264575/109424250-39408980-79e3-11eb-82d4-3836d1c1da17.png">
 
 ## Week 07| Data Pipeline: Docker, MongoDB, and ETL
 
